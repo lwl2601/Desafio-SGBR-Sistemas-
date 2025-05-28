@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GIF Explorer
 
 Aplicação web para explorar, buscar, favoritar, baixar e compartilhar GIFs de forma simples e moderna.
@@ -43,3 +44,7 @@ Aplicação web para explorar, buscar, favoritar, baixar e compartilhar GIFs de 
 Desenvolvido por **Léo Wisbistcki Ludwig**.
 
 Sinta-se à vontade para explorar, buscar, favoritar, baixar e compartilhar GIFs!
+=======
+# Desafio-SGBR-Sistemas-
+Aplicação web para explorar, buscar, favoritar, baixar e compartilhar GIFs, desenvolvida como desafio técnico para a SGBR® Sistemas.
+>>>>>>> 1d108121b46c98215bd701bd0aefce66bbe5beef
