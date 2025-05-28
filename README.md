@@ -21,13 +21,7 @@
 - 📱 **Layout responsivo** e sidebar interativa
 - 👤 **Avatar personalizado** do usuário
 
----
-
-## 🖼️ Preview
-
-![Preview do Projeto](https://user-images.githubusercontent.com/your-preview-image.png)
-
----
+--
 
 ## ⚡ Tecnologias Utilizadas
 
